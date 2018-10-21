@@ -1,0 +1,215 @@
+
+spineboy-ess.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust01
+  rotate: true
+  xy: 944, 2
+  size: 93, 71
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+dust02
+  rotate: true
+  xy: 856, 14
+  size: 81, 86
+  orig: 86, 88
+  offset: 1, 1
+  index: -1
+dust03
+  rotate: true
+  xy: 424, 9
+  size: 58, 51
+  orig: 62, 52
+  offset: 3, 1
+  index: -1
+eye-indifferent
+  rotate: false
+  xy: 577, 89
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+eye-surprised
+  rotate: false
+  xy: 672, 89
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+front-bracer
+  rotate: false
+  xy: 950, 398
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+front-fist-closed
+  rotate: false
+  xy: 873, 396
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+front-fist-open
+  rotate: true
+  xy: 767, 9
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+front-foot
+  rotate: true
+  xy: 873, 268
+  size: 126, 69
+  orig: 126, 69
+  offset: 0, 0
+  index: -1
+front-shin
+  rotate: true
+  xy: 767, 97
+  size: 81, 184
+  orig: 82, 184
+  offset: 1, 0
+  index: -1
+front-thigh
+  rotate: false
+  xy: 944, 282
+  size: 48, 112
+  orig: 48, 112
+  offset: 0, 0
+  index: -1
+goggles
+  rotate: false
+  xy: 214, 69
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 32
+  size: 210, 203
+  orig: 210, 203
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 600, 180
+  size: 271, 298
+  orig: 271, 298
+  offset: 0, 0
+  index: -1
+mouth-grind
+  rotate: false
+  xy: 329, 8
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+mouth-oooo
+  rotate: false
+  xy: 873, 207
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+mouth-smile
+  rotate: true
+  xy: 953, 112
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+muzzle01
+  rotate: true
+  xy: 667, 480
+  size: 542, 349
+  orig: 542, 349
+  offset: 0, 0
+  index: -1
+muzzle03
+  rotate: false
+  xy: 2, 597
+  size: 663, 425
+  orig: 663, 425
+  offset: 0, 0
+  index: -1
+muzzle04
+  rotate: false
+  xy: 2, 237
+  size: 596, 358
+  orig: 596, 358
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 968, 239
+  size: 35, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+rear-foot
+  rotate: false
+  xy: 214, 7
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+rear-shin
+  rotate: true
+  xy: 577, 13
+  size: 74, 178
+  orig: 75, 178
+  offset: 1, 0
+  index: -1
+rear-thigh
+  rotate: false
+  xy: 600, 492
+  size: 65, 103
+  orig: 65, 104
+  offset: 0, 1
+  index: -1
+rear-upper-arm
+  rotate: true
+  xy: 477, 6
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 477, 55
+  size: 98, 180
+  orig: 98, 180
+  offset: 0, 0
+  index: -1
+
+spineboy-ess2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front-upper-arm
+  rotate: false
+  xy: 2, 2
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+muzzle02
+  rotate: false
+  xy: 2, 101
+  size: 540, 337
+  orig: 540, 337
+  offset: 0, 0
+  index: -1
+rear-bracer
+  rotate: false
+  xy: 544, 366
+  size: 55, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1

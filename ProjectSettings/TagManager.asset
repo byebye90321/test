@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  - sound
+  - object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - Player
+  - effect
+  - draw
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 1569133069
+    locked: 0
+  - name: background
+    uniqueID: 2560622093
+    locked: 0
+  - name: floor
+    uniqueID: 2073606403
+    locked: 0
+  - name: Moster
+    uniqueID: 1823331917
+    locked: 0
+  - name: object
+    uniqueID: 71124277
+    locked: 0
+  - name: player
+    uniqueID: 1224234503
+    locked: 0
+  - name: UI
+    uniqueID: 1161755277
+    locked: 0

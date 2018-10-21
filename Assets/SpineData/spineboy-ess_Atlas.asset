@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: spineboy-ess_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 0c687fc13861f724d9f563ce90a6a9d1, type: 3}
+  materials:
+  - {fileID: 2100000, guid: e5470e41b4cb07d4188209cd582d10e4, type: 2}
+  - {fileID: 2100000, guid: 2a121af8e73b9c94e873612827f384b6, type: 2}
